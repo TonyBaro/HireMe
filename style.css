@@ -22,9 +22,21 @@ body{
     justify-content: center;
     background-color: rgba(25, 75, 24, 0.707);
     border-radius: 10pt;
-    margin-top: 5pt;
-    padding: 5pt;
-    width: 95%;
+    margin-top: 40pt;
+    padding-top: 5pt;
+    padding-left: 150pt;
+    padding-right: 5pt;
+    width: 80%;
+}
+
+#PFP {
+    position: absolute;
+    top:2%;
+    left:2%;
+    height: 30%;
+    border-radius: 25%;
+
+
 }
 
 
